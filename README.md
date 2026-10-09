@@ -43,4 +43,4 @@ O Livro de Receitas é um aplicativo desenvolvido em Flutter e Dart que permite 
 1. Clone o repositório:
 
    ```bash
-   git clone 
+   git clone https://github.com/dudamssr/app_receitas.git
